@@ -9,7 +9,7 @@
 
 Repository for MSiA-432 Deep Learning Course Project: The Simpsons Characters Recognition and Detection.
 
-Detailed information about the project can be found in the report 
+Detailed information about the project can be found in the report (https://github.com/lirongm/The-Simpsons-Characters-Recognition-and-Detection/blob/master/Final%20Report.pdf)
 
 ## Project Background
 The Simpsons is a popular American animated sitcom created by Matt Groening and has been on air since 1989. As big Simpson fans, we enjoy watching the across-the-board comedy masterpiece to relax and have fun. However, because of the large number of characters, sometimes we feel like we have seen a certain character before but don't know exactly who she or he is while watching the show. This project adopted advanced convolutional neural networks VGG16 / VGG19 (Simonyan & Zisserman 2014) and Xception (Chollet, 2017) to classify images for 18 Simpson characters. In addition to image classification, this team further trained a Faster R-CNN, an object detection model, to detect and classify images with multiple characters. The deployment of this project will allow viewers to know which Simpson characters they are watching without pressing pause to check their phones.
